@@ -1,6 +1,6 @@
 ## Hi there 👋
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65d8952466cd6d03d2da188c?variant=dark&roadmaps=aspnet-core%2Csql%2Ccpp" alt="roadmap.sh"/></a>
-[![roadmap.sh](https://roadmap.sh/card/tall/65d8952466cd6d03d2da188c?variant=dark&roadmaps=aspnet-core%2Csql%2Ccpp)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65d8952466cd6d03d2da188c?variant=dark&roadmaps=aspnet-core%2Csql%2Ccpp%2Cdatastructures-and-algorithms" alt="roadmap.sh"/></a>
+
 <!--
 **AkToHuyC/AkToHuyC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
