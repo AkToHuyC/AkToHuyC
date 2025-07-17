@@ -1,21 +1,31 @@
 <!-- Profile README for GitHub user: AkToHuyC -->
+<!-- Feel free to remove comments once настроишь всё под себя -->
 
-<!-- Header -->
-<h1 align="center"></h1>
+<!-- ===== Header ===== -->
+<h1 align="center">Привет</h1>
 <p align="center">
   Frontend → Fullstack разработчик: React, TypeScript, C#, backend (.NET + Node) и DevOps.
 </p>
 
----
+<!-- Optional animated tagline (remove if не хочешь) -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20dev%20в%20пути%20к%20Fullstack;React%2C%20TypeScript%2C%20C%23%2C%20.NET%2C%20Node;Учусь%20DevOps%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
+<br/>
+
+<!-- ===== About ===== -->
 ## О себе
-Разработчик с опытом во фронтенде (HTML/CSS, JS/TS, React, Tailwind). Сейчас активно усиливаю серверную часть: C#/.NET и Node.js.
+Разработчик с опытом во фронтенде (HTML/CSS, JS/TS, React, Tailwind). Сейчас активно усиливаю серверную часть: C#/.NET и Node.js. Цель — уверенный Fullstack с DevOps-практиками (Docker, CI/CD, деплой в облако).
 
----
+<br/>
 
+<!-- ===== Tech Stack ===== -->
 ## Технологии
 
-**Уверенно:**  
+**Уверенно**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -23,7 +33,7 @@
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 
-**Прокачиваю:**  
+**Прокачиваю**  
 ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-02569B?logo=azurefunctions&logoColor=white)
@@ -33,8 +43,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)
 
----
+<br/>
 
+<!-- ===== Practice / Progress ===== -->
 ## Практика / Прогресс
 
 ### Codewars
@@ -43,8 +54,10 @@
 ### roadmap.sh прогресс
 [![roadmap.sh](https://roadmap.sh/card/wide/65d8952466cd6d03d2da188c?variant=dark&roadmaps=typescript%2Creact%2Cbackend%2Cfrontend)](https://roadmap.sh)
 
----
+<br/>
 
+<!-- ===== Contact ===== -->
 ## Как связаться
+- Telegram: [@especial_view](https://t.me/especial_view)
 
-- Telegram: [@your_telegram](https://t.me/@especial_view)  
+<p align="center">• • •</p>
