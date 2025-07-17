@@ -2,8 +2,9 @@
 <!-- Feel free to remove comments once настроишь всё под себя -->
 
 <!-- ===== Header ===== -->
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=20&color=2990BE&width=435&lines=Hello+everyone;Fullstack+Developer)](https://git.io/typing-svg)
-
+</p>
 <br/>
 
 <!-- ===== About ===== -->
@@ -41,7 +42,7 @@
 ### Codewars
 [![codewars](https://www.codewars.com/users/AkToHuyC/badges/large)](https://www.codewars.com/users/AkToHuyC)
 
-### roadmap.sh прогресс
+### roadmap.sh
 [![roadmap.sh](https://roadmap.sh/card/wide/65d8952466cd6d03d2da188c?variant=dark&roadmaps=typescript%2Creact%2Cbackend%2Cfrontend)](https://roadmap.sh)
 
 <br/>
