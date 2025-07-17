@@ -2,17 +2,7 @@
 <!-- Feel free to remove comments once настроишь всё под себя -->
 
 <!-- ===== Header ===== -->
-<h1 align="center">Fullstack</h1>
-<p align="center">
-  Frontend → Fullstack разработчик: React, TypeScript, C#, backend (.NET + Node) и DevOps.
-</p>
-
-<!-- Optional animated tagline (remove if не хочешь) -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+%E2%86%92+Fullstack;React%2C+TS%2C+C%23;Учусь+DevOps)](https://git.io/typing-svg)
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=20&color=2990BE&width=435&lines=Hello+everyone;Fullstack+Developer)](https://git.io/typing-svg)
 
 <br/>
 
